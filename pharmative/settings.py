@@ -25,7 +25,7 @@ SECRET_KEY = 'd8mcj&jwsjh-boh-_jfw(r+@7(@vq%$wm!r$yd#acv$y6lx2#0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','pharmasitemaruful.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','tamalpharmatives.herokuapp.com']
 
 
 # Application definition
